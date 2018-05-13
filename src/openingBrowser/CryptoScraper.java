@@ -268,6 +268,7 @@ public class CryptoScraper {
 				"Bytecent",
 				"Kurrent",
 				"KekCoin",
+				"Hafeez"
 				};
 		
 		//initializing the chrome driver
