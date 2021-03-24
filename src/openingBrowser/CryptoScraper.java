@@ -267,11 +267,10 @@ public class CryptoScraper {
 				"TeslaCoin",
 				"Bytecent",
 				"Kurrent",
-				"KekCoin",
-				"Hafeez"
+				"KekCoin"
 				};
 		
-		//initializing the chrome driver
+		//initializing the chrome driver, enter your replace the second arguement with your workplace
 		System.setProperty("webdriver.chrome.driver", "/Users/hafeezkhan/Desktop/workplace/Crypto Scraper/lib/chromedriver/chromedriver");
 		
 		//Creating a WebDriver object
